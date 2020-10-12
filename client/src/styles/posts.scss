@@ -1,0 +1,18 @@
+.posts {
+    width: 80%;
+    margin-top: 40px;
+
+    .content {
+        font-size: 12px;
+        background-color: #F6F5F5;
+        padding: 15px;
+        text-align: left;
+
+        .expander {
+            text-decoration: underline;
+            color: blue;
+            margin-left: 5px;
+        }
+    }
+
+}
